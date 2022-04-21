@@ -98,7 +98,7 @@ window.onload = function() {
     //-------------------------------------------functions-----------------------------------------------//
     /* function calls */
     _("a_inventory").onclick = inventory_display;
-    _("a_path").onclick = path_display;;
+    _("a_path").onclick = path_display;
     _("a_endings").onclick = endings_display;
     _("a_progress").onclick = soft_reset;
     _("restart").onclick = soft_reset;
